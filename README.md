@@ -46,7 +46,7 @@ Khi khởi chạy dashgo_gazebo.launch .Một môi trường ảo trong gazebo �
 ## Chạy mô phỏng :
 
 `  roslaunch dashgo_description dashgo_gazebo.launch  `
-<img src='https://imgur.com/CkoJwEa' >
+<img src='https://imgur.com/CkoJwEa.png' >
 
 ## Các chỉnh sửa mô hình thực hiện trong 2 file 
 -  dashgo.urdf.xacro  
