@@ -22,15 +22,24 @@ Kết quả :Mô hình Robot của dashgobot.
  Cấu truc thư mục:
 **Dashgo_description**
 - launch
- - dashgo_gazebo.launch
+
+  - dashgo_gazebo.launch
+  
 - models
+
 - urdf
+
 - dashgobase
- - meshes
- - dashgo.gazebo.xacro
- - dashgo.urdf.xacro
+
+  - meshes
+  
+  - dashgo.gazebo.xacro
+  
+  - dashgo.urdf.xacro
+  
 - worlds
- - dashgo_world.world
+
+  - dashgo_world.world
 
 Khi khởi chạy dashgo_gazebo.launch .Một môi trường ảo trong gazebo được tạo ra chứa các world và model đã được xây dựng kết nối với Ros thông qua các node có thể hiển thị trên Rviz.
 
