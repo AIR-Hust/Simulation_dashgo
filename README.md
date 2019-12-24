@@ -43,3 +43,6 @@ Kết quả :Mô hình Robot của dashgobot.
 
 Khi khởi chạy dashgo_gazebo.launch .Một môi trường ảo trong gazebo được tạo ra chứa các world và model đã được xây dựng kết nối với Ros thông qua các node có thể hiển thị trên Rviz.
 
+##Chạy mô phỏng :
+
+`**roslaunch dashgo_description **`
