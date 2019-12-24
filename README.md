@@ -1,5 +1,5 @@
 # Simulation_dashgo
-<img src='https://i.imgur.com/DWJA65k.png' >
+<img src='https://i.imgur.com/DWJA65k.png' width="200" height="400 >
 Phần mềm mô phỏng là một trong những yếu tố quan trọng trong nghiên cứu robot .Có thể nói một trong những thách thức lớn nhất trong xây dựng robot hữu ích là phần mềm .Thông qua mô phỏng ta hiểu được vẫn đề trong sử dụng cảm biến nhằm xác định robot ở đâu ,lập ra kế hoạch và tính toán để robot thực hiện.
 
 Trong hướng dẫn này, ta phát triển một mô phỏng robot từ đầu dựa trên hình mẫu có thực (dashgobot). 
