@@ -1,4 +1,5 @@
 # Simulation_dashgo
+<img src='https://i.imgur.com/DWJA65k.png' >
 Phần mềm mô phỏng là một trong những yếu tố quan trọng trong nghiên cứu robot .Có thể nói một trong những thách thức lớn nhất trong xây dựng robot hữu ích là phần mềm .Thông qua mô phỏng ta hiểu được vẫn đề trong sử dụng cảm biến nhằm xác định robot ở đâu ,lập ra kế hoạch và tính toán để robot thực hiện.
 
 Trong hướng dẫn này, ta phát triển một mô phỏng robot từ đầu dựa trên hình mẫu có thực (dashgobot). 
@@ -46,6 +47,7 @@ Khi khởi chạy dashgo_gazebo.launch .Một môi trường ảo trong gazebo �
 ## Chạy mô phỏng :
 
 `  roslaunch dashgo_description dashgo_gazebo.launch  `
+
 <img src='https://imgur.com/CkoJwEa.png' >
 
 ## Các chỉnh sửa mô hình thực hiện trong 2 file 
